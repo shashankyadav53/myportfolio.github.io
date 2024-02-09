@@ -1,0 +1,255 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar-expand-sm{
+    background-color: rgb(107, 216, 220) !important;
+}
+.navbar-brand{
+    font-size: xx-large;
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white;
+    font-style: oblique;
+    text-shadow: 2px 2px 2px blue;
+    font-family: 'Playfair Display' ,serif;
+}
+.navbar-nav{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Playfair Display' ,serif;
+}
+#nav-itemHome{
+    background-color: #00ADAF;
+    border-radius: 5px;
+}
+.nav-item{
+    padding-right: 5px;
+    padding-left: 5px;
+    text-transform: uppercase;
+}
+.nav-link{
+    color: black !important;
+    font-size: 20px;
+}
+.card{
+    /* border: 2px solid red;  */
+    border: none;
+}
+.gg{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* border: 2px solid red; */
+}
+.row{
+    width: 100%;
+} 
+#Container2CardBody{
+    padding-left: 100px;
+    padding-right: 60px;
+    margin-top: 30px;
+}
+#Container2Cardh5{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Container2Cardh2{
+    font-size: xx-large;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Container2CardP{
+    font-size: large;
+    font-weight: 500;
+}
+#SKImage{
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 320px;
+    border: 3px solid #00ADAF;
+}
+#AnchorTag1{
+    font-size: 25px;
+    color: red;
+}
+#AnchorTag2{
+    font-size: 25px;
+    color: black; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#AnchorTag3, #AnchorTag4{
+    font-size: 25px;
+    color: rgb(29, 113, 197); 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#AnchorTag5{
+    font-size: 25px;
+    color: darkred; 
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#ViewResume{
+    text-decoration: none;
+    font-size: x-large;
+    margin-right: 10px;
+    color: black;
+    background-color: rgb(107, 216, 220);
+    border-radius: 5px;
+    padding: 5px;
+}
+#ViewResume:hover{
+    background-color: #00ADAF;
+    color: white;
+}
+#MoreAboutMe{
+    font-size: x-large;
+    color: black;
+    background-color: rgb(107, 216, 220);
+    border-radius: 5px;
+    border: none;
+    padding: 3.25px; 
+    margin-left: 10px;
+}
+#Container3SKImage{
+    height: 320px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    border-radius: 5px;
+    border: 2px solid skyblue;
+}
+#CardPara{
+    padding-right: 50px;
+    padding-left: 100px;
+    text-align: justify;
+    font-weight: 500;
+}
+#Fresh{
+    color: red;
+}
+#AboutMe{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.Container4{
+    /* border: 2px solid green; */
+    margin-top: 50px;
+}
+#MySkills{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+}
+#Conti41{
+    margin: 0%;
+}
+#Conti4CardBodys{
+    /* border: 2px solid black; */
+    box-shadow: 15px -15px 10px skyblue inset;
+    text-align: justify;
+    padding: 25px;
+}
+#Conti4CardBody{
+    /* border: 2px solid black; */
+    box-shadow: -15px 15px 10px skyblue inset;
+    text-align: justify;
+    padding: 25px;
+}
+.Container5{
+    /* border: 2px solid black; */
+    margin-top: 50px;
+    /* overflow-clip-margin: content-box;
+    overflow: clip; */
+}
+#SkillsImage{
+    height: 150px;
+    width: 150px;
+    margin-left: 145px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#TitleName{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#TextSkill{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#Conti51{
+    margin: 0%;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.h-100{
+    background-color: rgb(149, 240, 243);
+    cursor: pointer;
+    border: 2px solid #00ADAF;
+}
+.h-100:hover{
+    transform: scale(1.09);
+    transition: 3s;
+    color: white;
+    background-color: #5dc7c9;
+}
+i{
+    color: white;
+}
+#MoreAboutMeArrow{
+    font-size: x-large;
+    color: black;
+    background-color: rgb(107, 216, 220);
+    border-radius: 5px;
+    border: none;
+    padding: 3.25px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+#MoreAboutMeArrows{
+    font-size: x-large;
+    color: black;
+    background-color: rgb(107, 216, 220);
+    border-radius: 5px;
+    border: none;
+    padding: 3.25px;
+    margin-top: 45px;
+    margin-left: 10px;
+}
+.Container7{
+    margin-top: 50px;
+    border-top: 2px solid #00ADAF;
+}
+.abc{
+    /* border: 2px solid red; */
+    margin-left: 70px;
+}
+.abcd{
+    /* border: 2px solid red; */
+    margin-right: 70px;
+    text-align: end;
+}
+#BrandName{
+    text-shadow: 0 0 10px blue;
+    cursor: pointer;
+    text-decoration: none;
+}
+#BrandNames{
+   font-size: xx-large;
+}
+#Container8{
+    background-color: rgb(107, 216, 220);
+    color: black;
+    font-size: large;
+    font-weight: 400;
+}
